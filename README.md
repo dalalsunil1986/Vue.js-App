@@ -1,6 +1,6 @@
 # vue-project
 
-> A Vue.js project
+> A Simple Vue.js Application with vue-cli and vue-router
 
 ## Build Setup
 
